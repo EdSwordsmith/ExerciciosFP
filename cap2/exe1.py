@@ -1,0 +1,5 @@
+print("Vou pedir-lhe dois numeros")
+x = eval(input("Escreva o primeiro numero, x = "))
+y = eval(input("Escreva o segundo numero, y = "))
+res = (x + 3 * y) * (x - y)
+print("Ovalorde(x+3*y)*(x-y)e: ", res)
