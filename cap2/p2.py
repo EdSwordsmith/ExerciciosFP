@@ -5,11 +5,11 @@ pot = 1
 while num != 0:
     dig = num % 10
 
-    if dig == 8: # condicao simplificada
+    if dig == 8:
         dig = 0
     elif dig % 2 == 0:
         dig = dig + 2
-    elif dig == 1: # condicao simplificada
+    elif dig == 1:
         dig = 9
     else:
         dig = dig - 2
