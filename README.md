@@ -13,3 +13,8 @@ Se encontrarem este ficheiro numa pasta,
 esta pasta passa a ser uma package do python,
 o que me permite num ficheiro de python aceder a
 outro.
+
+### isinstance
+Aparentemente temos que usar o isinstance para
+validar o tipo das variáveis. Os exercícios que
+já tinha aqui resolvidos não o estão a utilizar.
