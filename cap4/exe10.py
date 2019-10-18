@@ -12,4 +12,14 @@ def codifica(texto):
 
 
 def descodifica(texto):
-    return codifica(codifica(codifica(texto)))
+    par = texto[:round(len(texto)/2)]
+    impar = texto[round(len(texto)/2):]
+    res = ""
+
+    for i in range(len(impar)):
+        res = res + par[i] + impar[i]
+    if len(par) != len(impar):
+        res = res + par[-1]
+
+    return res
+
