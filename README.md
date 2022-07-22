@@ -1,7 +1,7 @@
 # Exercícios de FP
 
 As minhas resoluções dos
-exercícios de FP, que fiz enquanto aluno no ano letivo de 2019/2020. Os exercícios estão agrupados
+exercícios de FP, que fiz enquanto aluno no ano letivo de 2019/2020, as resoluções podem não estar corretas e conter más práticas. Os exercícios estão agrupados
 em pastas para cada capítulo.
 
 ~~Caso queiram que resolve um exercício que
