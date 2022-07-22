@@ -1,12 +1,11 @@
 # Exercícios de FP
-## Feitos por Eduardo Espadeiro
 
-Eu decidi, partilhar as minhas resoluções dos
-exercícios de FP. Os exercícios estão agrupados
+As minhas resoluções dos
+exercícios de FP, que fiz enquanto aluno no ano letivo de 2019/2020. Os exercícios estão agrupados
 em pastas para cada capítulo.
 
-Caso queiram que resolve um exercício que
-ainda não resolvi, mandem mensagem.
+~~Caso queiram que resolve um exercício que
+ainda não resolvi, mandem mensagem.~~
 
 ### O que é o \_\_init__.py ?
 Se encontrarem este ficheiro numa pasta,
